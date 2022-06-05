@@ -1,5 +1,3 @@
-# [Aridevelopment.de](https://aridevelopment.de)
-
 An organization with wonderful people who couldn't care less for money. We develop products for free for the purpose of getting better at programming.
 
 
