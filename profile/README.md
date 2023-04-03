@@ -6,6 +6,7 @@ Group of developers who don't really care about money. We develop products for t
 - [datetimeparser](https://github.com/aridevelopment-de/datetimeparser): A Natural Language Processor for datetime objects build in Python
 - [myanimetab](https://github.com/aridevelopment-de/myanimetab): Highly customizable Firefox Home- and Startpage designed for weebs
 - [myanimetab.com](https://github.com/aridevelopment-de/myanimetab.com): Website for MyAnimeTab
+- [fabric-packet-logger](https://github.com/aridevelopment-de/fabric-packet-logger): A client-side fabric packet logger including a web-ui
 
 
 <br>
